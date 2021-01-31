@@ -3,3 +3,4 @@ Tutorial 1 in process
 I will write the steps of first tutorial here
 
 Step1. Open the tutors pdf files
+Step1.0. Skip the introductory pdf slides
