@@ -4,3 +4,4 @@ I will write the steps of first tutorial here
 (some comments may be added as well eventually)
 Step1. Open the tutors pdf files
 Step1.0. Skip the introductory pdf slides
+Step1.1. Delete the introductory pdf slides to reduce the weight of the file
